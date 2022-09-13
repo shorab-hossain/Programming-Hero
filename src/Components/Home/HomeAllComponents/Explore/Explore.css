@@ -1,0 +1,130 @@
+.content-text {
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 72px;
+  color: #ffff;
+}
+.text-design {
+  color: #fc535a;
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 72px;
+}
+/* button-design */
+.bannar-btn {
+  background: linear-gradient(1.09deg, #6e1fea -11.78%, #4289ff 198.26%);
+  box-shadow: 0px 4px 10px rgb(31 13 69 / 15%);
+  border-radius: 10px;
+  font-size: 20px;
+  line-height: 1;
+  padding: 18px 25px;
+  border-bottom: none;
+  transition: 0.3s;
+  cursor: pointer;
+  margin-right: 12px;
+}
+.btn-design {
+  text-decoration: none !important;
+  color: #ffff !important;
+  display: flex;
+}
+.myIcon {
+  margin-top: 3px;
+  padding-left: 10px;
+}
+/* explore-card-design */
+.Explore-Card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 45px 20px;
+  margin-top: 45px;
+}
+.left {
+  margin-left: -40px;
+}
+.my-content h3 {
+  font-weight: 700;
+  line-height: 44px;
+  padding-bottom: 10px;
+  color: #ffff;
+}
+.my-content p {
+  color: #ffff;
+}
+.second-section {
+  display: flex;
+  justify-content: center;
+}
+.small-wrapper {
+  margin-right: 45px;
+}
+.content-wrapper {
+  line-height: 5px;
+}
+.img-explore {
+  margin-right: 20px;
+  width: 55px;
+}
+.firstImg img {
+  width: 55px !important;
+  margin-left: 35px;
+}
+#enrolled {
+  margin-left: 45px;
+}
+.second {
+  margin-right: 20px;
+  width: 55px;
+}
+.img-wrapper {
+  width: 163px;
+}
+.last-wrapper {
+  width: 215px;
+}
+/* last-section-design */
+.last-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 7px;
+}
+.firstly {
+  background: #ffffff;
+  border-radius: 57.2653px;
+  padding: 5px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.smallWrapper {
+  margin-right: 2px;
+  text-align: center;
+}
+
+.style-explore {
+  width: 258px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.style-explore img {
+  margin-right: 10px;
+}
+@media only screen and (max-width: 600px) {
+  .left-blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .right-blog {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .img-explore {
+    margin-right: 5px;
+    width: 60px;
+  }
+}

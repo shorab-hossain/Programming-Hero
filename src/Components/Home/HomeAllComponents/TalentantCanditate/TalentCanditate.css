@@ -1,0 +1,31 @@
+.myIcon {
+  margin-top: 3px;
+  padding-left: 10px;
+}
+.btn-design {
+  text-decoration: none !important;
+  color: #ffff !important;
+  display: flex;
+}
+.talentBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.talentTitle {
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 72px;
+  padding-top: 40px;
+}
+.card-slider {
+  background-color: #22174b;
+  border-radius: 15px;
+}
+/* last-card-design */
+.main-SliderImg {
+  margin-right: 92px;
+}
+.left-SliderImg {
+  margin-left: 28px;
+}

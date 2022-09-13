@@ -1,0 +1,55 @@
+.full-section {
+  position: relative !important;
+}
+.circle {
+  height: 232px;
+  width: 232px;
+  border-radius: 50%;
+  opacity: 0.5;
+  filter: blur(115px);
+  position: absolute;
+}
+.circle-3 {
+  background: linear-gradient(1.09deg, #6e1fea -11.78%, #4289ff 198.26%);
+  z-index: 2;
+  left: 0;
+}
+.main-card {
+  border-radius: 30px;
+}
+.card-img {
+  width: 280px;
+  margin: 0 auto;
+  padding-top: 25px;
+}
+.card-content {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  padding: 0 25px;
+}
+.second-img {
+  width: 400px;
+  margin-top: 40px;
+  margin-bottom: -23px;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 38px;
+  padding: 0 15px 6px;
+}
+.img-thirdCard {
+  width: 170px;
+  margin-right: 20px;
+}
+.thirdCard {
+  background: linear-gradient(180deg, #ff3e6c 0%, #fc5e51 100%);
+  border-radius: 30px;
+}
+.last-img {
+  margin-bottom: -2px;
+}

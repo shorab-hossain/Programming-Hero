@@ -1,0 +1,29 @@
+.content {
+  font-size: 20px;
+  color: #ffff !important;
+  font-weight: 600;
+  margin-right: 15px;
+}
+.icon-toggle {
+  background: #ffff !important;
+  padding: 21px;
+  border-radius: 8px;
+}
+.main-item {
+  margin-left: 258px;
+}
+@media only screen and (max-width: 650px) {
+  .main-item {
+    margin-left: 0 !important;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .main-item {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .main-item {
+    margin-left: 290px;
+  }
+}
