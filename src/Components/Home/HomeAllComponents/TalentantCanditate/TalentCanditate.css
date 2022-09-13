@@ -29,3 +29,21 @@
 .left-SliderImg {
   margin-left: 28px;
 }
+/* 3-card-design */
+#second-img {
+  width: 300px;
+  background: #201548;
+  border-radius: 28.9667px;
+  padding: 43px 84px;
+}
+.flex-card1 {
+  width: 300px;
+  background: #201548;
+  border-radius: 28.9667px;
+  /* padding: 43px 84px; */
+  margin-left: 70px;
+  padding: 50px 60px;
+}
+.flex-card1 h3 {
+  font-size: 48px;
+}

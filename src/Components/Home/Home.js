@@ -4,10 +4,12 @@ import Bannar from './Bannar/Bannar';
 import Career from './Career/Career';
 import Contract from './Contract/Contract';
 import Coures from './Courses/Coures';
+import Footer from './Footer/Footer';
 import HireForm from './HireForm/HireForm';
 import './Home.css';
 import Explore from './HomeAllComponents/Explore/Explore';
 import SliderCard from './HomeAllComponents/Explore/SliderCard';
+import JobMeshMent from './HomeAllComponents/JobPlaceMent/JobMeshMent';
 import TalentCanditate from './HomeAllComponents/TalentantCanditate/TalentCanditate';
 
 const Home = () => {
@@ -72,10 +74,17 @@ const Home = () => {
                 <div>
                   <TalentCanditate></TalentCanditate>
                 </div>
+                <div>
+                  <JobMeshMent></JobMeshMent>
+                </div>
+                <div>
+                  <Footer></Footer>
+                </div>
                 <Coures></Coures>
                 <HireForm></HireForm>
                 <Contract></Contract>
                 <Career></Career>
+                
         </div>
 
     );

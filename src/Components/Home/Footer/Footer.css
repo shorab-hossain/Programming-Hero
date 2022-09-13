@@ -1,0 +1,28 @@
+.footer-container {
+  padding-top: 75px;
+  padding-bottom: 15px;
+}
+.main-container {
+  color: #fff;
+  border-top: 1px solid #282e62;
+  padding-top: 30px;
+}
+
+.footer-icon {
+  padding: 15px 0px;
+  font-size: 22px;
+}
+.footer-icon img {
+  width: 44px;
+  margin-right: 15px;
+}
+
+.footer-link a {
+  text-decoration: none;
+  color: #fff;
+  line-height: 36px;
+}
+.footer-iconDesign h4 {
+  color: #ffff;
+  font-weight: 700;
+}
